@@ -13,3 +13,8 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## **python**
 ----
 - [Using base64 encoding to remove special characters](python/base64_encoding.md) - 02-11-2021 
+
+## **dbeaver**
+----
+- [Changing keyboard bindings in dbeaver](dbeaver/changing-keyboard-bindings.md) - 02-11-2021 
+
