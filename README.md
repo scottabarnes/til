@@ -13,7 +13,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## **python**
 ----
 - [Using base64 encoding to remove special characters](python/base64_encoding.md) - 02-11-2021 
-- [Applying a function to many columns using lambda](python/applying-function-many-cols.md) - 02-11-2021 
+- [Applying a function to many columns using lambda](python/applying-function-many-cols.md) - 05-11-2021 
 
 ## **dbeaver**
 ----
