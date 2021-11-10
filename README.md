@@ -19,3 +19,6 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ----
 - [Changing keyboard bindings in dbeaver](dbeaver/changing-keyboard-bindings.md) - 02-11-2021 
 
+## **snowflake**
+----
+- [Indexes in dataframe created from fetch pandas all are not unique](snowflake/indexes-non-unq-fetch-pandas-all.md) - 10-11-2021
