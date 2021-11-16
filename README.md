@@ -14,7 +14,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ----
 - [Using base64 encoding to remove special characters](python/base64_encoding.md) - 02-11-2021 
 - [Applying a function to many columns using lambda](python/applying-function-many-cols.md) - 05-11-2021 
-- [Extracting rules from a decision tree](python/extracting-rules-from-a-decision-tree) - 16-11-2021
+- [Extracting rules from a decision tree](python/extracting-rules-from-a-decision-tree.md) - 16-11-2021
 
 ## **dbeaver**
 ----
