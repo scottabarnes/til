@@ -9,6 +9,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## **sql**
 ----
 - [Using union all to combine results from multiple queries](sql/combine-multiple-queries-union-all.md) - 02-11-2021 
+- [Reverting a commit](git/reverting-a-commit.md) - 25-11-2021
 
 ## **python**
 ----
