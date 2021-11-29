@@ -29,3 +29,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## **snowflake**
 ----
 - [Indexes in dataframe created from fetch pandas all are not unique](snowflake/indexes-non-unq-fetch-pandas-all.md) - 10-11-2021
+
+## **vscode**
+----
+- [Keyboard shortcuts for formatting JSON in vscode](vscode/formatting-json.md) - 10-11-2021
