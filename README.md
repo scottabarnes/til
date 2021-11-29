@@ -32,4 +32,4 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## **vscode**
 ----
-- [Keyboard shortcuts for formatting JSON in vscode](vscode/formatting-json.md) - 10-11-2021
+- [Keyboard shortcuts for formatting JSON in vscode](vscode/formatting-json.md) - 29-11-2021
