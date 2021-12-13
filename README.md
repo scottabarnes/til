@@ -6,6 +6,10 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ----
 - [Running a job using the jobs API](databricks/running-job-api.md) - 26-11-2021 
 
+## **datagrips**
+----
+- [SSL certificate error when pushing to git](datagrips/SSL-certificate-git.md) - 26-11-2021 
+
 ## **dbeaver**
 ----
 - [Changing keyboard bindings in dbeaver](dbeaver/changing-keyboard-bindings.md) - 02-11-2021 
