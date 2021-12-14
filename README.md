@@ -29,8 +29,8 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## **sql**
 ----
 - [Using union all to combine results from multiple queries](sql/combine-multiple-queries-union-all.md) - 02-11-2021 
-- [When to use max vs. greatest](sql/max-vs-greatest.md)
-- [Using CASE WHEN instead of GREATEST()](sql/case-when-vs-greatest.md)
+- [When to use max vs. greatest](sql/max-vs-greatest.md) - 14-12-2021
+- [Using CASE WHEN instead of GREATEST()](sql/case-when-vs-greatest.md) - 14-12-2021
 
 ## **snowflake**
 ----
