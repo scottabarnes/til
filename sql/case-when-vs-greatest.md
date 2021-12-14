@@ -6,3 +6,5 @@ E.g.
 
     CASE WHEN a > b then a else b end
 
+
+Although - in Netezza SQL it appears `MAX()` can be used in place of `GREATEST()` as outlined [here](https://stackoverflow.com/questions/18576891/greatest-function-in-netezza) and [here](https://stackoverflow.com/questions/30748437/greatest-least-or-max-min-calculation-in-sql).
