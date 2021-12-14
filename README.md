@@ -17,10 +17,6 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## **github**
 ----
 - [Checking out a file with special characters](git/checking-out-file-with-special-characters.md) - 01-11-2021 
-
-## **sql**
-----
-- [Using union all to combine results from multiple queries](sql/combine-multiple-queries-union-all.md) - 02-11-2021 
 - [Reverting a commit](git/reverting-a-commit.md) - 25-11-2021
 
 ## **python**
@@ -29,6 +25,12 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 - [Applying a function to many columns using lambda](python/applying-function-many-cols.md) - 05-11-2021 
 - [Extracting rules from a decision tree](python/extracting-rules-from-a-decision-tree.md) - 16-11-2021
 - [Converting a dataframe to a dict](python/dataframe-to-dict.md) - 23-11-2021
+
+## **sql**
+----
+- [Using union all to combine results from multiple queries](sql/combine-multiple-queries-union-all.md) - 02-11-2021 
+- [When to use max vs. greatest](sql/max-vs-greatest.md)
+- [Using CASE WHEN instead of GREATEST()](sql/case-when-vs-greatest.md)
 
 ## **snowflake**
 ----
