@@ -12,7 +12,8 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## **dbeaver**
 ----
-- [Changing keyboard bindings in dbeaver](dbeaver/changing-keyboard-bindings.md) - 02-11-2021 
+- [Changing keyboard bindings in dbeaver](dbeaver/changing-keyboard-bindings.md) - 02-11-2021
+- [Executing PUT statements to Snowflake](dbeaver/put-snowflake.md) - 05-01-2022 
 
 ## **github**
 ----
