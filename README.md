@@ -32,6 +32,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 - [Using union all to combine results from multiple queries](sql/combine-multiple-queries-union-all.md) - 02-11-2021 
 - [When to use max vs. greatest](sql/max-vs-greatest.md) - 14-12-2021
 - [Using CASE WHEN instead of GREATEST()](sql/case-when-vs-greatest.md) - 14-12-2021
+- [Using interval when adding to timestamps](sql/interval-timestamp-add.md) - 10-01-2022
 
 ## **snowflake**
 ----
