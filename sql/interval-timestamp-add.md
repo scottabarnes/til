@@ -9,7 +9,7 @@ Was adding a series of day intervals to a timestamp field. E.g.:
   2 |
   3 |
 
-Adding these to a timestamp field without using INTERVAL to the nearest n-days, e.g. for timestamp `10-01-2022 16:35`
+Adding these to a timestamp field without using INTERVAL to the nearest n-days, e.g. for timestamp `10-01-2022 16:35` the psuedo-code of
 
 `select timestamp + days_to_add as timestamp_add;`
 
